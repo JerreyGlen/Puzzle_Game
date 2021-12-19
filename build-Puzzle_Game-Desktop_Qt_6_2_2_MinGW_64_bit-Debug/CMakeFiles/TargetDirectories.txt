@@ -1,5 +1,0 @@
-D:/Progpro/VP/Puzzle_Game/build-Puzzle_Game-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/CMakeFiles/Puzzle_Game.dir
-D:/Progpro/VP/Puzzle_Game/build-Puzzle_Game-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
-D:/Progpro/VP/Puzzle_Game/build-Puzzle_Game-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
-D:/Progpro/VP/Puzzle_Game/build-Puzzle_Game-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/CMakeFiles/Puzzle_Game_autogen_timestamp_deps.dir
-D:/Progpro/VP/Puzzle_Game/build-Puzzle_Game-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/CMakeFiles/Puzzle_Game_autogen.dir
