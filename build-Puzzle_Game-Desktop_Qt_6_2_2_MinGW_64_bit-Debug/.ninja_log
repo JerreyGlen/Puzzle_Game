@@ -1,0 +1,9 @@
+# ninja log v5
+3	1526	6616387699084119	Puzzle_Game_autogen/timestamp	f184a77511a21398
+3	1526	6616387699084119	Puzzle_Game_autogen/mocs_compilation.cpp	f184a77511a21398
+3	1526	6616387699084119	D:/Progpro/VP/Puzzle_Game/build-Puzzle_Game-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/Puzzle_Game_autogen/timestamp	f184a77511a21398
+3	1526	6616387699084119	D:/Progpro/VP/Puzzle_Game/build-Puzzle_Game-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/Puzzle_Game_autogen/mocs_compilation.cpp	f184a77511a21398
+1527	6734	6616387753908350	CMakeFiles/Puzzle_Game.dir/Puzzle_Game_autogen/mocs_compilation.cpp.obj	50b3b128ae536f02
+1531	7265	6616387759244159	CMakeFiles/Puzzle_Game.dir/main.cpp.obj	99e032eff2cd7298
+1529	7431	6616387760895697	CMakeFiles/Puzzle_Game.dir/puzzle_game.cpp.obj	b37cd7549373676
+7432	7843	6616387764936871	Puzzle_Game.exe	d5839e934b187b8f
