@@ -15,14 +15,14 @@ Form3::~Form3()
 
 void Form3::on_pushButton_2_clicked()
 {
-    /*form.show();
-    this->hide();*/
+    form.show();
+    this->hide();
 }
 
 
-void Form3::on_pushButton_clicked()
+void Form3::spielWiederholeclicked()
 {
-  /*  form1.show();
-    this->hide();*/
+    form1.show();
+    this->hide();
 }
 

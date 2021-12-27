@@ -3,6 +3,7 @@
 
 #include <QWidget>
 #include <form1.h>
+#include <QFileDialog>
 
 namespace Ui {
 class Form;
@@ -18,6 +19,8 @@ public:
 
 private slots:
     void on_pushButton_2_clicked();
+
+    void on_chooseImage_clicked();
 
 private:
     Ui::Form *ui;

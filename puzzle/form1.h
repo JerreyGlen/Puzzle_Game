@@ -2,7 +2,8 @@
 #define FORM1_H
 
 #include <QWidget>
-
+//#include <form2.h>
+//#include <form3.h>
 
 
 namespace Ui {
@@ -22,6 +23,8 @@ private slots:
 
 private:
     Ui::Form1 *ui;
+  /*  Form2 form2;
+    Form3 form3;*/
 };
 
 #endif // FORM1_H

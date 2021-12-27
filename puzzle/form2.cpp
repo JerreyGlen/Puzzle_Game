@@ -15,14 +15,21 @@ Form2::~Form2()
 
 void Form2::on_pushButton_2_clicked()
 {
-   /* form.show();
-    this->hide();*/
+    form.show();
+    this->hide();
 }
+
+
+/*void Form2::spielWiederholenclicked()
+{
+    form1.show();
+    this->hide();
+}*/
 
 
 void Form2::on_pushButton_clicked()
 {
-   /* form1.show();
-    this->hide();*/
+    form1.show();
+    this->hide();
 }
 

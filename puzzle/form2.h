@@ -3,7 +3,7 @@
 
 #include <QWidget>
 #include <form.h>
-//#include <form1.h>
+#include <form1.h>
 
 namespace Ui {
 class Form2;
@@ -20,12 +20,14 @@ public:
 private slots:
     void on_pushButton_2_clicked();
 
+   // void spielWiederholenclicked();
+
     void on_pushButton_clicked();
 
 private:
     Ui::Form2 *ui;
-   /* Form form;
-    Form1 form1;*/
+    Form form;
+    Form1 form1;
 };
 
 #endif // FORM2_H
