@@ -9,8 +9,6 @@ int main(int argc, char *argv[])
     QApplication app(argc, argv);
     startseite start;
     start.show();
-    /*MainWindow window;
-    window.loadImage(QStringLiteral(":/images/example.jpg"));
-    window.show();*/
+
     return app.exec();
 }
